@@ -1,0 +1,182 @@
+body {
+    width: 1920px;
+}
+body header {
+    display: flex;
+    width: 1771px;
+    margin: 0 auto;
+    height: 105px;
+    text-align: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 50px;
+}
+body header nav {}
+body header nav a:last-child {
+    margin-right: 0;
+}
+body header nav a {
+    margin-right: 50px;
+    font-size: 1.125rem;
+}
+body header .logo {}
+body header .logo h1 {}
+body header .logo h1 a {}
+body header .logo h1 a img {}
+body header .top_icon {
+    display: flex;
+}
+body header .top_icon ul {}
+body header .top_icon ul li {}
+body header .top_icon ul li img {}
+body header .top_icon ul li .sub {
+    display: none;
+}
+body header .top_icon ul li .sub li {}
+body header .top_icon a {
+    margin-left: 25px;
+}
+body header .top_icon a img {}
+/* >메인<> */
+main {}
+main .bg1 {
+    background-image: url(../images/pc_main43.png);
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+main .bg1 .text_box {
+    padding: 315px 0 480px 208px;
+}
+main .bg1 .text_box h1 {
+    font-size: 70px;
+    color: #CC3333;
+    margin-bottom: 57px;
+}
+main .bg1 .text_box p {
+    font-size: 25px;
+    color: #000;
+    margin-bottom: 79px;
+}
+main .bg1 .text_box a {
+    color: #fff;
+    background-color: #cc3333;
+    width: 340px;
+    height: 79px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main .bg2 {}
+main .bg2 .item_box {
+    display: flex;
+    width: 1175px;
+/*     background-color: cadetblue; */
+    justify-content: center;
+    margin: 0 auto;
+}
+main .bg2 .item_box a {
+    margin-right: 5px;
+}
+main .bg2 .item_box a img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}
+main .bg2 .item_box p {
+    text-align: center;
+    font-size: 15px;
+    padding-top: 10px;
+    margin-bottom: 90px;
+}
+main .bg2 .item_box .item1 {}
+main .bg2 .item_box .item2 {}
+main .bg2 .item_box .item3 {}
+main .bg2 .item_box .item4 {}
+main .bg2 .item_box .item5 {}
+main .bg2 .item_box .item6 {}
+/* bg3 */
+main .bg3 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+main .bg3 .gif {
+
+}
+main .bg3 .gif img {
+    border-radius: 50px;
+    width: 100%;
+}
+main .bg3 .bg3text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    margin-left: 50px;
+}
+main .bg3 .bg3text p {}
+main .bg3 .bg3text p span {
+    color: #0099CC;
+    font-size: 19px;
+}
+main .bg3 .bg3text h1 {
+    font-size: 60px;
+    color: #cc3333;
+    margin: 30px 0 20px;
+}
+main .bg3 .bg3text .text {
+    color: #202020;
+}
+main .bg3 .bg3text a {
+    width: 340px;
+    height: 79px;
+    background-color: #CC3333;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+}
+main .bg4 {
+    background-color: #CCFFFF;
+    padding: 100px 0 90px;
+    margin: 130px 0 0;
+}
+main .bg4 h2 {
+    color: #CC3333;
+    font-size: 50px;
+    margin-bottom: 20px ;
+    text-align: center;
+}
+main .bg4 h3 {
+    text-align: center;
+    color: #0099CC;
+    padding-bottom:70px ;
+}
+main .bg4 .category {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center;
+}
+main .bg4 .category .cate1 {
+    text-align: center;
+}
+main .bg4 .category .cate1 .pplen {
+    border: 1px solid #0099CC;
+    border-radius: 50px;
+    display: inline-block;
+    width: 180px;
+    line-height: 49px;
+    color: #0099CC;
+}
+main .bg4 .category .cate1 .name {}
+main .bg4 .category .cate1 img {
+    width: 312px;
+    height: 312px;
+}
+main .bg4 .category .cate1 p {}
+main .bg4 .category .cate1 p span {}
+main .bg4 .category .cate1 p em {}
+main .bg4 .category .cate1 p .del {}
